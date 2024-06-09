@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "551356068111",
+    "project_id": "college-dating-21639",
+    "storage_bucket": "college-dating-21639.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551356068111:android:8e0d7c69d6ff2d419c8e7a",
+        "android_client_info": {
+          "package_name": "com.sumitbhuia.collegedating"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBATV-GKKpe9MmCrvpE2tBeZ5lYYwizEYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
